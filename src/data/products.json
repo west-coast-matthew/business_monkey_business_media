@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "prod-001",
+    "themeId": "theme-001",
+    "themeSlug": "seven-deadly-seas",
+    "name": "Empowered Mind Tee",
+    "description": "A lightweight crew-neck tee printed with the 'Empowered Mind' graphic. Crafted on a Bella+Canvas 3001 blank for a soft, flattering fit. Perfect for everyday wear.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Mauve",
+      "Heather Grey",
+      "White"
+    ],
+    "isNew": true,
+    "isFeatured": true,
+    "salesCount": 312,
+    "createdAt": "2026-05-15T00:00:00Z",
+    "totalSold": 847,
+    "rating": 1
+  },
+  {
+    "id": "prod-002",
+    "themeId": "theme-001",
+    "themeSlug": "seven-deadly-seas",
+    "name": "Grace in Chaos Hoodie",
+    "description": "A premium midweight pullover hoodie featuring the signature 'Grace in Chaos' wordmark. Printed on a Gildan SF500 blank for ultimate comfort.",
+    "price": 59,
+    "type": "hoodie",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Dusty Rose",
+      "Charcoal",
+      "Cream"
+    ],
+    "isNew": false,
+    "isFeatured": true,
+    "salesCount": 198,
+    "createdAt": "2026-03-10T00:00:00Z",
+    "totalSold": 1523,
+    "rating": 0
+  },
+  {
+    "id": "prod-003",
+    "themeId": "theme-001",
+    "themeSlug": "seven-deadly-seas",
+    "name": "Own the Chaos Crewneck",
+    "description": "A cozy fleece crewneck sweatshirt with the 'Own the Chaos' slogan in a bold serif typeface. Great for layering or wearing solo.",
+    "price": 49,
+    "type": "sweatshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Vintage White",
+      "Sage",
+      "Black"
+    ],
+    "isNew": true,
+    "isFeatured": false,
+    "salesCount": 87,
+    "createdAt": "2026-06-01T00:00:00Z",
+    "totalSold": 392,
+    "rating": 3
+  },
+  {
+    "id": "prod-004",
+    "themeId": "theme-001",
+    "themeSlug": "seven-deadly-seas",
+    "name": "Lead with Grace Mug",
+    "description": "An 11oz ceramic mug with the 'Lead with Grace' design. Microwave and dishwasher safe. Makes a perfect gift.",
+    "price": 19,
+    "type": "mug",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "11oz",
+      "15oz"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 241,
+    "createdAt": "2026-02-20T00:00:00Z",
+    "totalSold": 1105,
+    "rating": 1
+  },
+  {
+    "id": "prod-005",
+    "themeId": "theme-001",
+    "themeSlug": "seven-deadly-seas",
+    "name": "Rise Sticker Pack",
+    "description": "A set of 5 high-quality vinyl stickers featuring the 'Rise' collection art. Waterproof and UV-resistant. Perfect for laptops, water bottles, and journals.",
+    "price": 9,
+    "type": "sticker",
+    "imageUrl": "/shirt-preview.png",
+    "isNew": true,
+    "isFeatured": false,
+    "salesCount": 554,
+    "createdAt": "2026-06-05T00:00:00Z",
+    "totalSold": 1876,
+    "rating": 2
+  },
+  {
+    "id": "prod-006",
+    "themeId": "theme-001",
+    "themeSlug": "seven-deadly-seas",
+    "name": "Bloom & Thrive Tee",
+    "description": "A soft tri-blend tee with a delicate botanical 'Bloom & Thrive' print. The perfect balance of style and comfort for every day.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Soft Pink",
+      "Ivory",
+      "Lavender"
+    ],
+    "isNew": false,
+    "isFeatured": true,
+    "salesCount": 176,
+    "createdAt": "2026-04-01T00:00:00Z",
+    "totalSold": 634,
+    "rating": 0
+  },
+  {
+    "id": "prod-007",
+    "themeId": "theme-002",
+    "themeSlug": "outlaws-and-angels",
+    "name": "Braap Life Hoodie",
+    "description": "The official 'Braap Life' heavyweight hoodie for riders who live for the sound. Printed on a Champion S700 reverse weave for maximum durability.",
+    "price": 65,
+    "type": "hoodie",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black",
+      "Military Green",
+      "Sand"
+    ],
+    "isNew": false,
+    "isFeatured": true,
+    "salesCount": 289,
+    "createdAt": "2026-03-01T00:00:00Z",
+    "totalSold": 1243,
+    "rating": 2
+  },
+  {
+    "id": "prod-008",
+    "themeId": "theme-002",
+    "themeSlug": "outlaws-and-angels",
+    "name": "Mud Season Tee",
+    "description": "Embrace the grime with the 'Mud Season' graphic tee. A bold, distressed print that tells everyone exactly where you've been.",
+    "price": 28,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Washed Black",
+      "Olive",
+      "Rust"
+    ],
+    "isNew": true,
+    "isFeatured": true,
+    "salesCount": 421,
+    "createdAt": "2026-05-20T00:00:00Z",
+    "totalSold": 1789,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-009",
+    "themeId": "theme-002",
+    "themeSlug": "outlaws-and-angels",
+    "name": "Two-Stroke Mug",
+    "description": "Fuel up for your next ride with the 'Two-Stroke' 11oz ceramic mug. A must-have for the morning ritual before hitting the trails.",
+    "price": 19,
+    "type": "mug",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "11oz",
+      "15oz"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 163,
+    "createdAt": "2026-02-15T00:00:00Z",
+    "totalSold": 521,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-010",
+    "themeId": "theme-002",
+    "themeSlug": "outlaws-and-angels",
+    "name": "Trail Boss Sticker Pack",
+    "description": "5-piece waterproof vinyl sticker set for the rider who owns every trail. Stick them on your helmet, bike, or gear bag.",
+    "price": 9,
+    "type": "sticker",
+    "imageUrl": "/shirt-preview.png",
+    "isNew": true,
+    "isFeatured": false,
+    "salesCount": 732,
+    "createdAt": "2026-06-08T00:00:00Z",
+    "totalSold": 1654,
+    "rating": 5
+  },
+  {
+    "id": "prod-011",
+    "themeId": "theme-002",
+    "themeSlug": "outlaws-and-angels",
+    "name": "Rip It Tee",
+    "description": "A classic unisex tee with the 'Rip It' graphic for riders who leave it all on the track. Lightweight, breathable, and ready for action.",
+    "price": 28,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "White",
+      "Black",
+      "Charcoal"
+    ],
+    "isNew": false,
+    "isFeatured": true,
+    "salesCount": 345,
+    "createdAt": "2026-04-10T00:00:00Z",
+    "totalSold": 943,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-012",
+    "themeId": "theme-002",
+    "themeSlug": "outlaws-and-angels",
+    "name": "Throttle Therapy Crewneck",
+    "description": "When stress peaks, the remedy is simple: twist the throttle. This fleece crewneck celebrates the therapeutic power of two wheels.",
+    "price": 55,
+    "type": "sweatshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Desert Tan",
+      "Slate Blue",
+      "Black"
+    ],
+    "isNew": true,
+    "isFeatured": false,
+    "salesCount": 112,
+    "createdAt": "2026-05-28T00:00:00Z",
+    "totalSold": 278,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-013",
+    "themeId": "theme-022",
+    "themeSlug": "a-magical-place",
+    "name": "Shirt 1",
+    "description": "Mock product for A Magical Place.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 156,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-014",
+    "themeId": "theme-022",
+    "themeSlug": "a-magical-place",
+    "name": "Shirt 2",
+    "description": "Mock product for A Magical Place.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 423,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-015",
+    "themeId": "theme-022",
+    "themeSlug": "a-magical-place",
+    "name": "Shirt 3",
+    "description": "Mock product for A Magical Place.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 891,
+    "rating": 3
+  },
+  {
+    "id": "prod-016",
+    "themeId": "theme-022",
+    "themeSlug": "a-magical-place",
+    "name": "Shirt 4",
+    "description": "Mock product for A Magical Place.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1102,
+    "rating": 0
+  },
+  {
+    "id": "prod-017",
+    "themeId": "theme-022",
+    "themeSlug": "a-magical-place",
+    "name": "Shirt 5",
+    "description": "Mock product for A Magical Place.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 567,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-018",
+    "themeId": "theme-006",
+    "themeSlug": "en-tu-fiesta",
+    "name": "Shirt 1",
+    "description": "Mock product for En tu Fiesta.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 234,
+    "rating": 5
+  },
+  {
+    "id": "prod-019",
+    "themeId": "theme-006",
+    "themeSlug": "en-tu-fiesta",
+    "name": "Shirt 2",
+    "description": "Mock product for En tu Fiesta.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 789,
+    "rating": 5
+  },
+  {
+    "id": "prod-020",
+    "themeId": "theme-006",
+    "themeSlug": "en-tu-fiesta",
+    "name": "Shirt 3",
+    "description": "Mock product for En tu Fiesta.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1456,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-021",
+    "themeId": "theme-006",
+    "themeSlug": "en-tu-fiesta",
+    "name": "Shirt 4",
+    "description": "Mock product for En tu Fiesta.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 612,
+    "rating": 3
+  },
+  {
+    "id": "prod-022",
+    "themeId": "theme-006",
+    "themeSlug": "en-tu-fiesta",
+    "name": "Shirt 5",
+    "description": "Mock product for En tu Fiesta.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 344,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-023",
+    "themeId": "theme-010",
+    "themeSlug": "freedom-one",
+    "name": "Shirt 1",
+    "description": "Mock product for Freedom One.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 978,
+    "rating": 3
+  },
+  {
+    "id": "prod-024",
+    "themeId": "theme-010",
+    "themeSlug": "freedom-one",
+    "name": "Shirt 2",
+    "description": "Mock product for Freedom One.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1201,
+    "rating": 1
+  },
+  {
+    "id": "prod-025",
+    "themeId": "theme-010",
+    "themeSlug": "freedom-one",
+    "name": "Shirt 3",
+    "description": "Mock product for Freedom One.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 456,
+    "rating": 5
+  },
+  {
+    "id": "prod-026",
+    "themeId": "theme-010",
+    "themeSlug": "freedom-one",
+    "name": "Shirt 4",
+    "description": "Mock product for Freedom One.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1834,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-027",
+    "themeId": "theme-010",
+    "themeSlug": "freedom-one",
+    "name": "Shirt 5",
+    "description": "Mock product for Freedom One.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 723,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-028",
+    "themeId": "theme-012",
+    "themeSlug": "galaxies-edge",
+    "name": "Shirt 1",
+    "description": "Mock product for Galaxies Edge.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 189,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-029",
+    "themeId": "theme-012",
+    "themeSlug": "galaxies-edge",
+    "name": "Shirt 2",
+    "description": "Mock product for Galaxies Edge.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1567,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-030",
+    "themeId": "theme-012",
+    "themeSlug": "galaxies-edge",
+    "name": "Shirt 3",
+    "description": "Mock product for Galaxies Edge.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 834,
+    "rating": 0
+  },
+  {
+    "id": "prod-031",
+    "themeId": "theme-012",
+    "themeSlug": "galaxies-edge",
+    "name": "Shirt 4",
+    "description": "Mock product for Galaxies Edge.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1123,
+    "rating": 0
+  },
+  {
+    "id": "prod-032",
+    "themeId": "theme-012",
+    "themeSlug": "galaxies-edge",
+    "name": "Shirt 5",
+    "description": "Mock product for Galaxies Edge.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 445,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-033",
+    "themeId": "theme-013",
+    "themeSlug": "gill-masters",
+    "name": "Shirt 1",
+    "description": "Mock product for Gill Masters.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1678,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-034",
+    "themeId": "theme-013",
+    "themeSlug": "gill-masters",
+    "name": "Shirt 2",
+    "description": "Mock product for Gill Masters.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 267,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-035",
+    "themeId": "theme-013",
+    "themeSlug": "gill-masters",
+    "name": "Shirt 3",
+    "description": "Mock product for Gill Masters.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 912,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-036",
+    "themeId": "theme-013",
+    "themeSlug": "gill-masters",
+    "name": "Shirt 4",
+    "description": "Mock product for Gill Masters.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1389,
+    "rating": 2
+  },
+  {
+    "id": "prod-037",
+    "themeId": "theme-013",
+    "themeSlug": "gill-masters",
+    "name": "Shirt 5",
+    "description": "Mock product for Gill Masters.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 534,
+    "rating": 3
+  },
+  {
+    "id": "prod-038",
+    "themeId": "theme-023",
+    "themeSlug": "gone-fishing",
+    "name": "Shirt 1",
+    "description": "Mock product for Gone Fishing.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1765,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-039",
+    "themeId": "theme-023",
+    "themeSlug": "gone-fishing",
+    "name": "Shirt 2",
+    "description": "Mock product for Gone Fishing.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 398,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-040",
+    "themeId": "theme-023",
+    "themeSlug": "gone-fishing",
+    "name": "Shirt 3",
+    "description": "Mock product for Gone Fishing.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1034,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-041",
+    "themeId": "theme-023",
+    "themeSlug": "gone-fishing",
+    "name": "Shirt 4",
+    "description": "Mock product for Gone Fishing.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 623,
+    "rating": 5
+  },
+  {
+    "id": "prod-042",
+    "themeId": "theme-023",
+    "themeSlug": "gone-fishing",
+    "name": "Shirt 5",
+    "description": "Mock product for Gone Fishing.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 187,
+    "rating": 2
+  },
+  {
+    "id": "prod-043",
+    "themeId": "theme-019",
+    "themeSlug": "headhunter-and-co",
+    "name": "Shirt 1",
+    "description": "Mock product for Headhunter & Co.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1456,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-044",
+    "themeId": "theme-019",
+    "themeSlug": "headhunter-and-co",
+    "name": "Shirt 2",
+    "description": "Mock product for Headhunter & Co.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 812,
+    "rating": 1
+  },
+  {
+    "id": "prod-045",
+    "themeId": "theme-019",
+    "themeSlug": "headhunter-and-co",
+    "name": "Shirt 3",
+    "description": "Mock product for Headhunter & Co.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 345,
+    "rating": 2
+  },
+  {
+    "id": "prod-046",
+    "themeId": "theme-019",
+    "themeSlug": "headhunter-and-co",
+    "name": "Shirt 4",
+    "description": "Mock product for Headhunter & Co.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1923,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-047",
+    "themeId": "theme-019",
+    "themeSlug": "headhunter-and-co",
+    "name": "Shirt 5",
+    "description": "Mock product for Headhunter & Co.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 678,
+    "rating": 4
+  },
+  {
+    "id": "prod-048",
+    "themeId": "theme-005",
+    "themeSlug": "inspirational-daily-dose",
+    "name": "Shirt 1",
+    "description": "Mock product for Inspirational Daily Dose.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 3
+  },
+  {
+    "id": "prod-049",
+    "themeId": "theme-005",
+    "themeSlug": "inspirational-daily-dose",
+    "name": "Shirt 2",
+    "description": "Mock product for Inspirational Daily Dose.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 456,
+    "rating": 4
+  },
+  {
+    "id": "prod-050",
+    "themeId": "theme-005",
+    "themeSlug": "inspirational-daily-dose",
+    "name": "Shirt 3",
+    "description": "Mock product for Inspirational Daily Dose.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1789,
+    "rating": 2
+  },
+  {
+    "id": "prod-051",
+    "themeId": "theme-005",
+    "themeSlug": "inspirational-daily-dose",
+    "name": "Shirt 4",
+    "description": "Mock product for Inspirational Daily Dose.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 923,
+    "rating": 1
+  },
+  {
+    "id": "prod-052",
+    "themeId": "theme-005",
+    "themeSlug": "inspirational-daily-dose",
+    "name": "Shirt 5",
+    "description": "Mock product for Inspirational Daily Dose.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 134,
+    "rating": 1
+  },
+  {
+    "id": "prod-053",
+    "themeId": "theme-008",
+    "themeSlug": "knnk",
+    "name": "Shirt 1",
+    "description": "Mock product for Knnk.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1567,
+    "rating": 0
+  },
+  {
+    "id": "prod-054",
+    "themeId": "theme-008",
+    "themeSlug": "knnk",
+    "name": "Shirt 2",
+    "description": "Mock product for Knnk.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 789,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-055",
+    "themeId": "theme-008",
+    "themeSlug": "knnk",
+    "name": "Shirt 3",
+    "description": "Mock product for Knnk.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 412,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-056",
+    "themeId": "theme-008",
+    "themeSlug": "knnk",
+    "name": "Shirt 4",
+    "description": "Mock product for Knnk.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1834,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-057",
+    "themeId": "theme-008",
+    "themeSlug": "knnk",
+    "name": "Shirt 5",
+    "description": "Mock product for Knnk.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 556,
+    "rating": 5
+  },
+  {
+    "id": "prod-058",
+    "themeId": "theme-009",
+    "themeSlug": "life-is-a-beach",
+    "name": "Shirt 1",
+    "description": "Mock product for Life is a Beach.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1123,
+    "rating": 1
+  },
+  {
+    "id": "prod-059",
+    "themeId": "theme-009",
+    "themeSlug": "life-is-a-beach",
+    "name": "Shirt 2",
+    "description": "Mock product for Life is a Beach.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 678,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-060",
+    "themeId": "theme-009",
+    "themeSlug": "life-is-a-beach",
+    "name": "Shirt 3",
+    "description": "Mock product for Life is a Beach.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1456,
+    "rating": 3
+  },
+  {
+    "id": "prod-061",
+    "themeId": "theme-009",
+    "themeSlug": "life-is-a-beach",
+    "name": "Shirt 4",
+    "description": "Mock product for Life is a Beach.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 234,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-062",
+    "themeId": "theme-009",
+    "themeSlug": "life-is-a-beach",
+    "name": "Shirt 5",
+    "description": "Mock product for Life is a Beach.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1789,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-063",
+    "themeId": "theme-004",
+    "themeSlug": "little-princess-company",
+    "name": "Shirt 1",
+    "description": "Mock product for Little Princess & Company.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 945,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-064",
+    "themeId": "theme-004",
+    "themeSlug": "little-princess-company",
+    "name": "Shirt 2",
+    "description": "Mock product for Little Princess & Company.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 5
+  },
+  {
+    "id": "prod-065",
+    "themeId": "theme-004",
+    "themeSlug": "little-princess-company",
+    "name": "Shirt 3",
+    "description": "Mock product for Little Princess & Company.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 567,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-066",
+    "themeId": "theme-004",
+    "themeSlug": "little-princess-company",
+    "name": "Shirt 4",
+    "description": "Mock product for Little Princess & Company.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1678,
+    "rating": 5
+  },
+  {
+    "id": "prod-067",
+    "themeId": "theme-004",
+    "themeSlug": "little-princess-company",
+    "name": "Shirt 5",
+    "description": "Mock product for Little Princess & Company.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 312,
+    "rating": 4
+  },
+  {
+    "id": "prod-068",
+    "themeId": "theme-007",
+    "themeSlug": "los-requerdos",
+    "name": "Shirt 1",
+    "description": "Mock product for Los Requerdos.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1045,
+    "rating": 2
+  },
+  {
+    "id": "prod-069",
+    "themeId": "theme-007",
+    "themeSlug": "los-requerdos",
+    "name": "Shirt 2",
+    "description": "Mock product for Los Requerdos.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 789,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-070",
+    "themeId": "theme-007",
+    "themeSlug": "los-requerdos",
+    "name": "Shirt 3",
+    "description": "Mock product for Los Requerdos.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1456,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-071",
+    "themeId": "theme-007",
+    "themeSlug": "los-requerdos",
+    "name": "Shirt 4",
+    "description": "Mock product for Los Requerdos.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 623,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-072",
+    "themeId": "theme-007",
+    "themeSlug": "los-requerdos",
+    "name": "Shirt 5",
+    "description": "Mock product for Los Requerdos.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1789,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-073",
+    "themeId": "theme-016",
+    "themeSlug": "nine-lives",
+    "name": "Shirt 1",
+    "description": "Mock product for Nine Lives.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 412,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-074",
+    "themeId": "theme-016",
+    "themeSlug": "nine-lives",
+    "name": "Shirt 2",
+    "description": "Mock product for Nine Lives.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 1
+  },
+  {
+    "id": "prod-075",
+    "themeId": "theme-016",
+    "themeSlug": "nine-lives",
+    "name": "Shirt 3",
+    "description": "Mock product for Nine Lives.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 867,
+    "rating": 3
+  },
+  {
+    "id": "prod-076",
+    "themeId": "theme-016",
+    "themeSlug": "nine-lives",
+    "name": "Shirt 4",
+    "description": "Mock product for Nine Lives.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1523,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-077",
+    "themeId": "theme-016",
+    "themeSlug": "nine-lives",
+    "name": "Shirt 5",
+    "description": "Mock product for Nine Lives.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 345,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-078",
+    "themeId": "theme-021",
+    "themeSlug": "nosotros",
+    "name": "Shirt 1",
+    "description": "Mock product for Nosotros.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1678,
+    "rating": 1
+  },
+  {
+    "id": "prod-079",
+    "themeId": "theme-021",
+    "themeSlug": "nosotros",
+    "name": "Shirt 2",
+    "description": "Mock product for Nosotros.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 912,
+    "rating": 1
+  },
+  {
+    "id": "prod-080",
+    "themeId": "theme-021",
+    "themeSlug": "nosotros",
+    "name": "Shirt 3",
+    "description": "Mock product for Nosotros.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 234,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-081",
+    "themeId": "theme-021",
+    "themeSlug": "nosotros",
+    "name": "Shirt 4",
+    "description": "Mock product for Nosotros.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1456,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-082",
+    "themeId": "theme-021",
+    "themeSlug": "nosotros",
+    "name": "Shirt 5",
+    "description": "Mock product for Nosotros.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 789,
+    "rating": 4
+  },
+  {
+    "id": "prod-083",
+    "themeId": "theme-015",
+    "themeSlug": "pit-crew",
+    "name": "Shirt 1",
+    "description": "Mock product for Pit Crew.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1123,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-084",
+    "themeId": "theme-015",
+    "themeSlug": "pit-crew",
+    "name": "Shirt 2",
+    "description": "Mock product for Pit Crew.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 567,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-085",
+    "themeId": "theme-015",
+    "themeSlug": "pit-crew",
+    "name": "Shirt 3",
+    "description": "Mock product for Pit Crew.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1834,
+    "rating": 2
+  },
+  {
+    "id": "prod-086",
+    "themeId": "theme-015",
+    "themeSlug": "pit-crew",
+    "name": "Shirt 4",
+    "description": "Mock product for Pit Crew.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 423,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-087",
+    "themeId": "theme-015",
+    "themeSlug": "pit-crew",
+    "name": "Shirt 5",
+    "description": "Mock product for Pit Crew.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1567,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-088",
+    "themeId": "theme-014",
+    "themeSlug": "rock-city",
+    "name": "Shirt 1",
+    "description": "Mock product for Rock City.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 834,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-089",
+    "themeId": "theme-014",
+    "themeSlug": "rock-city",
+    "name": "Shirt 2",
+    "description": "Mock product for Rock City.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-090",
+    "themeId": "theme-014",
+    "themeSlug": "rock-city",
+    "name": "Shirt 3",
+    "description": "Mock product for Rock City.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 512,
+    "rating": 5
+  },
+  {
+    "id": "prod-091",
+    "themeId": "theme-014",
+    "themeSlug": "rock-city",
+    "name": "Shirt 4",
+    "description": "Mock product for Rock City.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1789,
+    "rating": 2
+  },
+  {
+    "id": "prod-092",
+    "themeId": "theme-014",
+    "themeSlug": "rock-city",
+    "name": "Shirt 5",
+    "description": "Mock product for Rock City.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 678,
+    "rating": 4
+  },
+  {
+    "id": "prod-093",
+    "themeId": "theme-018",
+    "themeSlug": "sideshow",
+    "name": "Shirt 1",
+    "description": "Mock product for Sideshow.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1345,
+    "rating": 2
+  },
+  {
+    "id": "prod-094",
+    "themeId": "theme-018",
+    "themeSlug": "sideshow",
+    "name": "Shirt 2",
+    "description": "Mock product for Sideshow.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 456,
+    "rating": 0
+  },
+  {
+    "id": "prod-095",
+    "themeId": "theme-018",
+    "themeSlug": "sideshow",
+    "name": "Shirt 3",
+    "description": "Mock product for Sideshow.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1678,
+    "rating": 0
+  },
+  {
+    "id": "prod-096",
+    "themeId": "theme-018",
+    "themeSlug": "sideshow",
+    "name": "Shirt 4",
+    "description": "Mock product for Sideshow.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 789,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-097",
+    "themeId": "theme-018",
+    "themeSlug": "sideshow",
+    "name": "Shirt 5",
+    "description": "Mock product for Sideshow.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 5
+  },
+  {
+    "id": "prod-098",
+    "themeId": "theme-003",
+    "themeSlug": "south-fo-heaven",
+    "name": "Shirt 1",
+    "description": "Mock product for South fo Heaven.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 567,
+    "rating": 4
+  },
+  {
+    "id": "prod-099",
+    "themeId": "theme-003",
+    "themeSlug": "south-fo-heaven",
+    "name": "Shirt 2",
+    "description": "Mock product for South fo Heaven.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1456,
+    "rating": 0.5
+  },
+  {
+    "id": "prod-100",
+    "themeId": "theme-003",
+    "themeSlug": "south-fo-heaven",
+    "name": "Shirt 3",
+    "description": "Mock product for South fo Heaven.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 823,
+    "rating": 2
+  },
+  {
+    "id": "prod-101",
+    "themeId": "theme-003",
+    "themeSlug": "south-fo-heaven",
+    "name": "Shirt 4",
+    "description": "Mock product for South fo Heaven.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1789,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-102",
+    "themeId": "theme-003",
+    "themeSlug": "south-fo-heaven",
+    "name": "Shirt 5",
+    "description": "Mock product for South fo Heaven.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 345,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-103",
+    "themeId": "theme-011",
+    "themeSlug": "the-lighter-side",
+    "name": "Shirt 1",
+    "description": "Mock product for The Lighter Side.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 4.5
+  },
+  {
+    "id": "prod-104",
+    "themeId": "theme-011",
+    "themeSlug": "the-lighter-side",
+    "name": "Shirt 2",
+    "description": "Mock product for The Lighter Side.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 678,
+    "rating": 5
+  },
+  {
+    "id": "prod-105",
+    "themeId": "theme-011",
+    "themeSlug": "the-lighter-side",
+    "name": "Shirt 3",
+    "description": "Mock product for The Lighter Side.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1567,
+    "rating": 1
+  },
+  {
+    "id": "prod-106",
+    "themeId": "theme-011",
+    "themeSlug": "the-lighter-side",
+    "name": "Shirt 4",
+    "description": "Mock product for The Lighter Side.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 412,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-107",
+    "themeId": "theme-011",
+    "themeSlug": "the-lighter-side",
+    "name": "Shirt 5",
+    "description": "Mock product for The Lighter Side.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1834,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-108",
+    "themeId": "theme-020",
+    "themeSlug": "wildeside",
+    "name": "Shirt 1",
+    "description": "Mock product for Wildeside.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 923,
+    "rating": 1
+  },
+  {
+    "id": "prod-109",
+    "themeId": "theme-020",
+    "themeSlug": "wildeside",
+    "name": "Shirt 2",
+    "description": "Mock product for Wildeside.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 2
+  },
+  {
+    "id": "prod-110",
+    "themeId": "theme-020",
+    "themeSlug": "wildeside",
+    "name": "Shirt 3",
+    "description": "Mock product for Wildeside.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 567,
+    "rating": 0
+  },
+  {
+    "id": "prod-111",
+    "themeId": "theme-020",
+    "themeSlug": "wildeside",
+    "name": "Shirt 4",
+    "description": "Mock product for Wildeside.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1678,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-112",
+    "themeId": "theme-020",
+    "themeSlug": "wildeside",
+    "name": "Shirt 5",
+    "description": "Mock product for Wildeside.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 345,
+    "rating": 2
+  },
+  {
+    "id": "prod-113",
+    "themeId": "theme-017",
+    "themeSlug": "you-do-voodoo",
+    "name": "Shirt 1",
+    "description": "Mock product for You Do Voodoo.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1456,
+    "rating": 2.5
+  },
+  {
+    "id": "prod-114",
+    "themeId": "theme-017",
+    "themeSlug": "you-do-voodoo",
+    "name": "Shirt 2",
+    "description": "Mock product for You Do Voodoo.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 789,
+    "rating": 1
+  },
+  {
+    "id": "prod-115",
+    "themeId": "theme-017",
+    "themeSlug": "you-do-voodoo",
+    "name": "Shirt 3",
+    "description": "Mock product for You Do Voodoo.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1234,
+    "rating": 3
+  },
+  {
+    "id": "prod-116",
+    "themeId": "theme-017",
+    "themeSlug": "you-do-voodoo",
+    "name": "Shirt 4",
+    "description": "Mock product for You Do Voodoo.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 567,
+    "rating": 3.5
+  },
+  {
+    "id": "prod-117",
+    "themeId": "theme-017",
+    "themeSlug": "you-do-voodoo",
+    "name": "Shirt 5",
+    "description": "Mock product for You Do Voodoo.",
+    "price": 29,
+    "type": "tshirt",
+    "imageUrl": "/shirt-preview.png",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "isNew": false,
+    "isFeatured": false,
+    "salesCount": 0,
+    "createdAt": "2026-07-11T00:00:00Z",
+    "totalSold": 1834,
+    "rating": 3
+  }
+]

@@ -1,0 +1,17 @@
+import { NextResponse } from 'next/server';
+import allProducts from '@/data/products.json';
+import type { Product } from '@/types';
+
+export async function GET(
+  _request: Request,
+  { params }: { params: Promise<{ id: string }> }
+) {
+  const { id } = await params;
+  const product = (allProducts as Product[]).find((p) => p.id === id);
+
+  if (!product) {
+    return NextResponse.json({ error: 'Product not found' }, { status: 404 });
+  }
+
+  return NextResponse.json(product);
+}
